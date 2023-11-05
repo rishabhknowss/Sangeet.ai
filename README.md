@@ -31,3 +31,4 @@ To make an web app that uses Open AI's API to generate music on the basis of the
 - Using localhost for backend(we could not find free hosting for that)
 
 **link** - `https://sangeet-ai.vercel.app/`
+**PPT link** - `https://docs.google.com/presentation/d/1ZjNX74qV9R9lsO16p20VW03L1ZKslfVv-lVBbkaB2Jk/edit?usp=sharing`
